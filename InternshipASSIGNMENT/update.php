@@ -149,7 +149,7 @@
 <body>
     <form action="update.php" method="post">
         <fieldset class="fieldset">
-            <div class="heading">LOGIN - UPDATE</div><br>
+            <div class="heading">SUPER ADMIN - UPDATE</div><br>
             <div class="container">
                 <label for="roles">Roles</label>
                 <select name="role" id="roles" required>
