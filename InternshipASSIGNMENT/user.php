@@ -19,7 +19,7 @@
     </head>
     <body>
     <fieldset>
-        <h1>You landed in the User Page</h1>
+        <h1>You have landed on the User Page</h1>
     </fieldset>
     </body>
 </html>
