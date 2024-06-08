@@ -22,7 +22,7 @@
     </head>
     <body>
     <fieldset>
-        <h1>You landed in the Manager Page</h1>
+        <h1>You have landed on the Manager Page</h1>
     </fieldset>
     </body>
 </html>
