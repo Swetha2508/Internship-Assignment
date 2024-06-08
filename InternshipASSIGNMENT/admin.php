@@ -20,7 +20,7 @@
     </head>
     <body>
     <fieldset>
-        <h1>You landed in the Admin Page</h1>
+        <h1>You have landed on the Admin Page</h1>
     </fieldset>
     </body>
 </html>
